@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\highlander\source\repos\CS201R_P05.2\CS201R_P05.2\main.cpp(20,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\highlander\source\repos\CS201R_P05.2\CS201R_P05.2\main.cpp(67,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\highlander\source\repos\CS201R_P05.2\CS201R_P05.2\main.cpp(74,23): warning C4018:  '<': signed/unsigned mismatch
+  CS201R_P05.2.vcxproj -> C:\Users\highlander\source\repos\CS201R_P05.2\Debug\CS201R_P05.2.exe
